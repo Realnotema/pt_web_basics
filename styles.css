@@ -1,0 +1,23 @@
+body {
+    background-color: #46abff;
+    font-family: 'Courier New', Courier;
+    color: rgb(255, 255, 255);
+}
+
+.my_photo {
+    background: url(img/a19aa-computerhacker.webp) no-repeat center center;
+    background-size: 100%;
+    width: 500px;
+    height: 500px;
+}
+
+.nav_logo {
+    background: url(img/a19aa-computerhacker.webp) no-repeat center center;
+    background-size: 100%;
+    width: 100px;
+    height: 100px;
+}
+
+.container {
+    margin-top: 40px;
+}
